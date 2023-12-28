@@ -1,1 +1,3 @@
 hi this is my first command
+
+this is second command in file 1
